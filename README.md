@@ -26,3 +26,5 @@ bundle install
 bundle add jekyll
 bundle exec jekyll serve
 '''
+
+**Dica**: use a extensão *jekyll run* do vscode
